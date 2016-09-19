@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+	<div class="site-wrapper">
+		<div class="site-wrapper-inner">
+			<div class="cover-container">
+				<div class="inner cover">
+					<h1 class="cover-heading">Project reloacted</h1>
+					<p class="lead">Thank you for visiting Sky Cast. The project is no longer being hosted on this server. Sorry for the inconvenience <small><br>
+					Click link below to view the new Sky Cast</small></p>
+					<p class="lead"><a class="btn btn-lg btn-info" href="http://ec2-54-69-31-196.us-west-2.compute.amazonaws.com">Redirect</a></p>
+				</div>
+				<div class="mastfoot">
+					<div class="inner">
+						<p>2016 AndrewKralovec</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
